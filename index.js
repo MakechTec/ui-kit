@@ -1,0 +1,1 @@
+"use strict";exports.__esModule=true;exports.run=void 0;var ReactCLI=require("@makechtec/tezcatl-preset-react");var run=function(){ReactCLI.run()};exports.run=run;

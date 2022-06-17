@@ -2,5 +2,24 @@
   "dependencies": {
     "@makechtec/tezcatl": "^1.4.1",
     "@makechtec/tezcatl-preset-react": "^1.0.0"
-  }
+  },
+  "name": "@makechtec/tezcatl-preset-basic-ui",
+  "version": "1.0.0",
+  "author": "makechtec",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "compile": "tsc && terser prebuild/UI.js --output index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeldomp49/tezcatl-preset-basic-ui.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeldomp49/tezcatl-preset-basic-ui/issues"
+  },
+  "homepage": "https://github.com/angeldomp49/tezcatl-preset-basic-ui#readme",
+  "description": ""
 }
