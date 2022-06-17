@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@makechtec/tezcatl": "^1.4.1",
+    "@makechtec/tezcatl-preset-react": "^1.0.0"
+  }
+}
